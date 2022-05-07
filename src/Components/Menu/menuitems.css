@@ -1,0 +1,36 @@
+.MenuCards{
+    background-color: black;
+    height: 40vh;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.CardImage img{
+    width: 100%;
+    height: 30vh;
+}
+
+.menuitems{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 50px;
+    row-gap: 50px;
+}
+
+.MenuHeading{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.MenuHeading h1{
+    font-size: 80px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 3px black;
+}
+
+
+.Menu{
+    background-color: black;
+}

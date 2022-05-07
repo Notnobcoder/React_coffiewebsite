@@ -1,0 +1,19 @@
+.about{
+    width:100%;
+    height: 90vh;
+    box-sizing: border-box;
+    background-color: black;
+    display: flex;
+}
+.Aboutimage{
+    width: 50%;
+    height: 70vh;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.AboutItems{
+    width: 48%;
+    margin-top: 60px;
+    padding: 50px;
+}

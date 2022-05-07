@@ -1,0 +1,50 @@
+/* home component css  */
+*{
+    margin: 0;
+    padding: 0;
+}
+.HomePage{
+    height: 90vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.2)),url("https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.HomeItems{
+    width: 50%;
+    margin-left: 60px;
+}
+.HomeHeading{
+    font-size: 100px;
+    text-shadow: 1px 2px 3px black;
+}
+
+.HomeHeading2{
+    font-size: 50px;
+    margin-bottom: 20px;
+    width: 65%;
+    text-transform: lowercase;
+    text-shadow: 1px 2px 2px black;
+    display: flex;
+    justify-content: center;
+}
+
+.HomeButton{
+    margin-left: 120px;
+    padding: 10px;
+    background-color: rgb(15, 11, 11);
+    font-size: 20px;
+    color: wheat;
+    text-transform: capitalize;
+    border: 2px wheat;
+}
+
+.HomeButton:hover{
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    transition: 0.5s ease;
+}
