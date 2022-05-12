@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%60React_coffiewebsite/static/css/main.63a97cbf.css",
-    "main.js": "/%60React_coffiewebsite/static/js/main.728a9045.js",
-    "static/js/787.a76b1400.chunk.js": "/%60React_coffiewebsite/static/js/787.a76b1400.chunk.js",
-    "index.html": "/%60React_coffiewebsite/index.html",
-    "main.63a97cbf.css.map": "/%60React_coffiewebsite/static/css/main.63a97cbf.css.map",
-    "main.728a9045.js.map": "/%60React_coffiewebsite/static/js/main.728a9045.js.map",
-    "787.a76b1400.chunk.js.map": "/%60React_coffiewebsite/static/js/787.a76b1400.chunk.js.map"
+    "main.css": "/React_coffiewebsite/static/css/main.63a97cbf.css",
+    "main.js": "/React_coffiewebsite/static/js/main.e2f59fc5.js",
+    "static/js/787.a76b1400.chunk.js": "/React_coffiewebsite/static/js/787.a76b1400.chunk.js",
+    "index.html": "/React_coffiewebsite/index.html",
+    "main.63a97cbf.css.map": "/React_coffiewebsite/static/css/main.63a97cbf.css.map",
+    "main.e2f59fc5.js.map": "/React_coffiewebsite/static/js/main.e2f59fc5.js.map",
+    "787.a76b1400.chunk.js.map": "/React_coffiewebsite/static/js/787.a76b1400.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63a97cbf.css",
-    "static/js/main.728a9045.js"
+    "static/js/main.e2f59fc5.js"
   ]
 }
